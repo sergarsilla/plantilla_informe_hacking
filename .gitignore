@@ -1,0 +1,22 @@
+# Ficheros de log y auxiliares de LaTeX
+*.log
+*.aux
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Ficheros de índice
+*.idx
+*.ind
+*.ilg
+*.pdf
+
+# Directorio de salida y ficheros de VSCode
+/build/
+/.vscode/
